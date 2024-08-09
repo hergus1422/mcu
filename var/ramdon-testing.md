@@ -1,6 +1,10 @@
 $\2+2$
 This sentence uses `$` delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$
 
+
+info page
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github
+
 Here is a simple flow chart:
 
 ```mermaid
