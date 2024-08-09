@@ -35,7 +35,7 @@ P is power in Watts
 all posible formulas
 
 FOR V
-$$\V=RXI$$
+$\V=RXI$
 $V=P/I$
 $✓PXR$
 
