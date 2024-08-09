@@ -35,22 +35,21 @@ P is power in Watts
 all posible formulas
 
 FOR V
-V=RXI
-V=P/I
-✓PXR
+$$V=RXI$$
+$V=P/I$
+$✓PXR$
 
 FOR R
-R=V/I
-R=V^2/P
-R=P/I^2
+$R=V/I$
+$R=V^2/P$
+$R=P/I^2$
 
 FOR I
-I=V/R
-I=P/V
-I=✓P/R
+$I=V/R$
+$I=P/V$
+$I=✓P/R$
 
 FOR P
-P=VXI
-P=RXI^2
-P=V^2/R
-
+$P=VXI$
+$P=RXI^2$
+$P=V^2/R$
