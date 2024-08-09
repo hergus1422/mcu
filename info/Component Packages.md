@@ -8,7 +8,8 @@ In metric units, the format is to use two number each to describe the width and 
 
 The following is a list of the common chip packages, sorted from smallest to largest:
 
-| Package Designator (metric, IEC) | Dimensions (metric) |	Package Designator (imperial, EIA) | Dimensions (imperial) | Typical Power Rating (W) | Land Area | Comment |
+| Package Designator (metric, IEC) | Dimensions (metric) | Package Designator (imperial, EIA)  | Dimensions (imperial) | Typical Power Rating (W) | Land Area | Comment |
+| -------------------------------- | ------------------- | ----------------------------------- | --------------------- | ------------------------ | --------- | ------- |
 | 0402                             | 0.4x0.2mm           | 01005                               | 0.0157x0.0079in       | 1/32                     |           | Ridiculously small chip package that can barely be seen by the naked eye |
 | 0603                             | 0.6x0.3mm           | 0201                                | 0.024x0.012in         | 1/20                     | 0.12mm²   | Small chip package that is unsolderable by hand (it is just too small). BE CAREFUL NOT TO GET THE METRIC SIZE CONFUSED AS AN IMPERIAL as an 0603 imperial also exists!
 | 1005                             | 1.0x0.5mm           | 0402                                | 0.039x0.020in         | 1/16                     | 0.5mm²    | These are too small for ‘legitimate’ hand soldering, but it can be done. A common size for resistors and small valued capacitors in the pico/nanofarad range.
