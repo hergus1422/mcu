@@ -1,4 +1,7 @@
 resistor Ohms Law Calculator
+//info from 
+//https://www.calculator.net/ohms-law-calculator.html?v=110&vunit=volt&c=0.2&cunit=ampere&r=&runit=ohm&p=&punit=watt&x=Calculate
+//
 Ohm's Law
 Ohm's Law states that the current through a conductor between two points is directly proportional to the voltage. This is true for many materials, over a wide range of voltages and currents, and the resistance and conductance of electronic components made from these materials remain constant. Ohm's Law is true for circuits that contain only resistive elements (no capacitors or inductors), regardless of whether the driving voltage or current is constant (DC) or time-varying (AC). It can be expressed using a number of equations, usually all three together, as shown below.
 
@@ -28,7 +31,7 @@ Where:
 
 P is power in Watts
 
-//
+//formulas
 all posible formulas
 
 FOR V
